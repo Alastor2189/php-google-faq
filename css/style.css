@@ -21,7 +21,9 @@ a {
 
 h2,
 p {
-    padding: 1em 0;
+    padding: 20px 0 0 0;
+    line-height: 24px;
+    margin: 10px 0;
 }
 
 header {
@@ -78,6 +80,19 @@ header {
 main {
     margin-top: 100px;
     padding-top: 50px;
+}
+
+.list,
+.list li {
+    padding-left: 15px;
+    margin: 10px 0;
+    line-height: 24px
+}
+
+.list li ol {
+    padding-left: 50px;
+    margin: 10px 0;
+    line-height: 24px;
 }
 
 .footer {
