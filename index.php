@@ -110,7 +110,7 @@ Gestire il “Database” e la visualizzazione di queste domande e risposte con 
             <?php   } ?>
         </div>
     </main>
-    <footer>
+    <footer class="footer">
         <div class="left-footer">
             <ul>
                 <?php foreach ($footer_items as $items) { ?>
